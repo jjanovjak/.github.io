@@ -1,0 +1,44 @@
+
+   
+  p {
+    font-family: 'Times New Roman', Times, serif;
+    color:blue
+    background-color: grey;
+    font-size: 20px;
+  }
+
+  h1 {
+    color: rgb(187, 20, 34);
+    font-size: 42px;
+
+  }
+
+  h6 {
+    color: red;
+  }
+      
+   
+  
+  .myDiv {
+    border: 5px outset green;
+    background-color: rgb(230, 223, 223);
+    color:rgb(94, 11, 228)
+    font-family: monospace;
+    text-align: center;
+  } 
+  div {
+    width: 200px;
+    border: 2px solid rgb(128, 128, 128);
+    padding: 10px;
+    margin: 5px;
+  }
+   
+  #ChtSht {
+    width: 200px;
+    border: 2px solid rgb(0, 0, 255);
+    padding: 10px;
+    margin: 5px;
+  }
+  a {
+    text-decoration: dotted;
+  }
